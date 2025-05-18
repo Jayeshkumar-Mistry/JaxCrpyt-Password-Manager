@@ -9,10 +9,11 @@ const Footer = () => {
           <span className="text-white font-bold ">Jax</span>
           <span className="text-[#00FFF7] font-bold">Crypt/&gt;</span>
         </div>
-        <div className="flex gap-3">
-          Created by
-          <img src="icons/footer-icon.jpg" alt="Footer-icon" width={30} />
-          Jayesh
+         <div className="flex gap-3">
+          Created with
+          <img src="icons/falcon.png" alt="Footer-icon" width={30} />
+          by
+          <span className="font-bold"> Jayesh</span>
         </div>
       </div>
     </div>
